@@ -1,0 +1,8 @@
+data/
+neo4j_import/
+results/
+.env
+.codex_deps/
+.venv/
+*.zip
+__pycache__/
